@@ -1,0 +1,31 @@
+.course:nth-child(4) img, 
+.course:nth-child(6) img, 
+.course:nth-child(7) img,  
+.course:nth-child(8) img,
+.course:nth-child(10) img, 
+.course:nth-child(11) img,
+.course:nth-child(12) img,
+.course:nth-child(13) img,
+.course:nth-child(14) img,
+.course:nth-child(15) img,
+.course:nth-child(16) img,
+.course:nth-child(17) img,
+.course:nth-child(18) img
+ {
+  height: 12.5rem;
+}
+
+/* .course {
+ height: 35rem;
+ position: relative;
+}
+
+
+
+.btn {
+ position: absolute;
+ bottom: 2rem;
+ right: 7rem;
+ left: 7rem;
+} */
+

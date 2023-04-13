@@ -270,6 +270,10 @@ header {
   transition: var(--transition);
 }
 
+.course:nth-child(1) img {
+  height: 13.5rem;
+}
+
 .course:hover {
   background: transparent;
   border-color: var(--color-primary);
